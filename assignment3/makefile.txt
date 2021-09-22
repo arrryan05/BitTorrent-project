@@ -1,0 +1,4 @@
+to compile the code use
+
+g++ -o -pthreads server.cpp server
+ and ./server to finally run the program
