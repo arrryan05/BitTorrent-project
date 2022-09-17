@@ -1,2 +1,0 @@
-to compile the program use 
-g++ -pthread -server.cpp -o server, similaly for client side
